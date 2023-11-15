@@ -3,7 +3,6 @@
 
 ```python
 >>> nn.Conv2d (i, o , k , s , p): # INPUT (N x i x s x s) --> OUTPUT (N x o x s' x s')
-
 ```
     i: input
     o: output
